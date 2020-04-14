@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chemistry Reactions</string>
+    <string name="start_btn">Start</string>
+    <string name="bookmarks_btn">Bookmarks</string>
+    <string name="sets">Select set:</string>
+    <string name="title">Title</string>
+</resources>

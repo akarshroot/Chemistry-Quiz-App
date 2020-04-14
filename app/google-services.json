@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "268659548711",
+    "firebase_url": "https://chemistry-7b7c9.firebaseio.com",
+    "project_id": "chemistry-7b7c9",
+    "storage_bucket": "chemistry-7b7c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268659548711:android:84301ff0989a9700522402",
+        "android_client_info": {
+          "package_name": "com.akarshtripathi.chemistryreactions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268659548711-k6fcav4e8ub09h0a7eq9260e2osa5nl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB25xt-DFLRN5c4KG7i793dNNwaN8I7tQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268659548711-k6fcav4e8ub09h0a7eq9260e2osa5nl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
